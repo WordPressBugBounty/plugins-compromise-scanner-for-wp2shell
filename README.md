@@ -1,0 +1,1 @@
+# plugins-compromise-scanner-for-wp2shell
